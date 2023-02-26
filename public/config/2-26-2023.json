@@ -1,0 +1,82 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/watch?v=rHh0N_Xbm9s",
+  "secureHash": "8350e5a8e24c173df2275c9f80692755",
+  "image": "https://assets.churchofjesuschrist.org/03/b1/03b1fc836e4da44c1b912407054ff9bc7b32304c/jesus_christ_nephites_book_mormon.png",
+  "organist": "Whitney Kolstad",
+  "chorister": "Julie Clement",
+  "presiding": "Bishop Kent",
+  "conducting": "Matthew Hulse",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Chris Cooley"
+  },
+  "benediction": {
+    "type": "Invocation",
+    "name": "Kim Huffaker"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Rejoice, the Lord Is King!",
+    "number": 66,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/rejoice-the-lord-is-king?lang=eng"
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "O God, the Eternal Father",
+    "number": 175,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/o-god-the-eternal-father?lang=eng"
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Got Be with You Till We Meet Again",
+    "number": 152,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/god-be-with-you-till-we-meet-again?lang=eng"
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Haylee Hulse"
+    },
+    {
+      "type": "Speaker",
+      "name": "Bobbi Rogers"
+    },
+    {
+      "type": "Intermediate Hymn",
+      "title": "High on the Mountain Top",
+      "number": 5,
+      "link": "https://www.churchofjesuschrist.org/music/text/hymns/high-on-the-mountain-top?lang=eng"
+    },
+    {
+      "type": "Speaker",
+      "name": "Dona Louderback"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Ministering",
+      "announcements": [
+        "There may be members of our ward who are not recieving communications or the order of services. We invite all ministers to please check in the ward directory that your ministering families have a household email address, and if they don't to please help them to set one up. Please contact Brother Flaherty if you need assistance."
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [
+      "Brinlee Kessler"
+    ],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [
+      "Kim Huffaker (of 32nd St.) as Relief Society Activities Committee Member",
+      "Sasha Anderson as Relief Society Activities Committee Member"
+    ],
+    "callings": [
+      "Amber Osborn as Relief Society Instructor",
+      "Kim Huffaker (of 32nd St.) as Primary Teacher"
+    ],
+    "deaths": []
+  }
+}

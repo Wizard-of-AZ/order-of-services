@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: "Church Font";
+  src: url(./bakersignet.otf) format("opentype");
+}
+
+.church-font {
+  font-family: "Church Font", Verdana, Tahoma;
+}
+
+.font-sm {
+  font-size: 0.9rem;
+}
+
+.font-md {
+  font-size: 1.5rem;
+}
+
+.font-route {
+  font-size: 1.1rem;
+}
+
+.font-lg {
+  font-size: 2rem;
+}
+
+.zero-auto {
+  margin: 0 auto;
+}
+
+.max-75 {
+  max-width: 75%;
+}
+
+.max-desktop {
+  max-width: 600px;
+}
+
+.height-18 {
+  height: 18px;
+}

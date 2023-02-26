@@ -1,0 +1,91 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": true,
+  "broadcastLink": "https://youtu.be/DdR2NAFE2ss",
+  "secureHash": "8350e5a3e24c153df2275c9f80692773",
+  "image": "https://assets.churchofjesuschrist.org/03/b1/03b1fc836e4da44c1b912407054ff9bc7b32304c/jesus_christ_nephites_book_mormon.png",
+  "organist": "Whitney Kolstad",
+  "chorister": "Elizabeth Kasl",
+  "presiding": "Bishop Kent",
+  "conducting": "Matthew Hulse",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Joe Capps"
+  },
+  "benediction": {
+    "type": "Invocation",
+    "name": "Shaeli Kersee"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Come, Ye Children Of The Lord",
+    "number": 58,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/come-ye-children-of-the-lord?lang=eng"
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "In Humility Our Savior",
+    "number": 172,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/in-humility-our-savior?lang=eng"
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Lord We Ask Thee Ere We Part",
+    "number": 153,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/lord-we-ask-thee-ere-we-part?lang=eng"
+  },
+  "services": [
+  ],
+  "announcements": [
+    {
+      "organization": "Ward",
+      "announcements": [
+        "Choir practice will resume beginning after church in the Relief Society room at 1:15."
+      ]
+    },
+    {
+      "organization": "Bishopric",
+      "announcements": [
+        "Our Stake has organized a single adult committee for single members of our stake between the ages of 31 - 45. We are in need of a committee representative from our ward to participate in planning events and activities, if you have interest in serving in this capacity please reach out to a member of the bishopric."
+      ]
+    },
+    {
+      "organization": "Jr Primary Assignments",
+      "announcements": [
+        "2/12 Opening Prayer: Bristol Gray",
+        "2/12 Talk: Lukas Roberts",
+        "2/19 Opening Prayer: Everett Jarman",
+        "2/19 Talk: Nash Flake",
+        "2/26 Opening Prayer: Rhodes Kent",
+        "2/26 Talk: Taryn Hardy"
+      ]
+    },
+    {
+      "organization": "Sr Primary Assignments",
+      "announcements": [
+        "2/12 Talk: Caleb Murray",
+        "2/12 Closing Prayer: Holly Kolstad",
+        "2/19 Talk: Billy Cox",
+        "2/19 Closing Prayer: Jade Overstreet",
+        "2/26 Talk: Olivia Downs",
+        "2/26 Closing Prayer: Anne Flaherty"
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [
+      "Jackson Roberts"
+    ],
+    "ordinations": [],
+    "newMovins": [],
+    "Other": [],
+    "releases": [
+    ],
+    "callings": [
+      "Julie Clement as Ward Chorister",
+      "Elizabeth Kasl as Ward Chorister"
+    ],
+    "deaths": [
+    ]
+  }
+}
