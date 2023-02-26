@@ -29,7 +29,7 @@ export default function HymnItem({ hymn }) {
  * Data for hymn items:
  * 
  * {
- *   type{string}: This is the type of hymn it is- Opening Hymn, Musical Number, etc.
+ *   label{string}: This is the display type of hymn it is- Opening Hymn, Musical Number, etc.
  *   number{number}: The hymn number as found in the hymn book.
  *   musicians[{string}]: Array of names of performers.
  *   link{string}: Url to the hymn sheet music.
