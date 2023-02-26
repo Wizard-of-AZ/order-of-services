@@ -17,7 +17,7 @@ export default function HymnItem({ hymn }) {
       </div>
       <div className={`text-center font-sm ${hymn.truncate ? 'truncate zero-auto max-75' : ''}`}>
         {hymn.link
-          ? <a href={hymn.link} target="_blank" rel="noreferrer" className="font-medium text-teal-600 underline italic">{hymn.title}</a>
+          ? <a href={hymn.link} target="_blank" rel="noreferrer" className="font-medium text-sky-600 underline italic">{hymn.title}</a>
           : <div className="italic">{hymn.title}</div>
         }
       </div>
