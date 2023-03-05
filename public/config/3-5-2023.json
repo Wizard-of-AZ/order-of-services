@@ -1,0 +1,93 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": true,
+  "broadcastLink": "https://www.youtube.com/watch?v=ca3JDLKpnrY",
+  "secureHash": "8350e5a3e24c153df2975c9f80692773",
+  "image": "https://assets.churchofjesuschrist.org/03/b1/03b1fc836e4da44c1b912407054ff9bc7b32304c/jesus_christ_nephites_book_mormon.png",
+  "organist": "Whitney Kolstad",
+  "chorister": "Elizabeth Kasl",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Harmony Price"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Riley Price"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Master, the Tempest Is Raging",
+    "number": 105,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/master-the-tempest-is-raging?lang=eng"
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "'Tis Sweet to Sing the Matchless Love",
+    "number": 176,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/tis-sweet-to-sing-the-matchless-love-176?lang=eng"
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Keep the Commandments",
+    "number": 303,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/keep-the-commandments?lang=eng"
+  },
+  "services": [],
+  "announcements": [
+    {
+      "organization": "Ministering",
+      "announcements": [
+        "There may be members of our ward who are not recieving communications or the order of services. We invite all ministers to please check in the ward directory that your ministering families have a household email address, and if they don't to please help them to set one up. Please contact Brother Flaherty if you need assistance."
+      ]
+    },
+    {
+      "organization": "Relief Society",
+      "announcements": [
+        "On March 28th at 6pm there will be a Relief Society dinner at Lisa Hakes' home to celebrate the Relief Society's 181st Anniversary."
+      ]
+    },
+    {
+      "organization": "Jr Primary Assignments",
+      "announcements": [
+        "3/5 - Opening Prayer: Calvin Downs",
+        "3/5 - Talk: Thomas Williams",
+        "3/12 - Opening Prayer: Oliver Overstreet",
+        "3/12 - Talk: Emma Speakman",
+        "3/19 - Opening Prayer: Grace Speakman",
+        "3/19 - Talk: Colten Downs",
+        "3/26 - Opening Prayer: Cora Miller",
+        "3/26 - Talk: Clara Cornia"
+      ]
+    },
+    {
+      "organization": "Sr Primary Assignments",
+      "announcements": [
+        "3/5 - Talk: Sophia Gough",
+        "3/5 - Closing Prayer: Logan Downs",
+        "3/12 - Talk: Anne Flaherty",
+        "3/12 - Closing Prayer: Kylin Hardy",
+        "3/19 - Talk: Keegan Flake",
+        "3/19 - Closing Prayer: Phoenix Bellessa",
+        "3/26 - Talk: Lily Anderson",
+        "3/26 - Closing Prayer: Jaxon Kent"
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMovins": [],
+    "Other": [],
+    "releases": [
+      "Holly Ashby as Relief Society Instructor",
+      "Jennifer Andersen as Young Womens Specialist"
+    ],
+    "callings": [
+      "Jennifer Andersen as Relief Society Birthday Chair",
+      "Kyle Hufffaker as Assistant Nursery Leader"
+    ],
+    "deaths": []
+  }
+}
