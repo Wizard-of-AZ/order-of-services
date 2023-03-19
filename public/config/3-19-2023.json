@@ -1,0 +1,75 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/watch?v=lxX4NmtrknI",
+  "secureHash": "8350e5z3e24c153df2975c9l80692773",
+  "image": "https://assets.churchofjesuschrist.org/03/b1/03b1fc836e4da44c1b912407054ff9bc7b32304c/jesus_christ_nephites_book_mormon.png",
+  "organist": "Whitney Kolstad",
+  "chorister": "Elizabeth Kasl",
+  "presiding": "Bishop Kent",
+  "conducting": "David Kolstad",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Shawn Williams"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Melody Williams"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Praise to the Lord, the Almighty",
+    "number": 72,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/praise-to-the-lord-the-almighty?lang=eng"
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "O Lord of Hosts",
+    "number": 178,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/o-lord-of-hosts?lang=eng"
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "We Love Thy House, O God",
+    "number": 247,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/we-love-thy-house-o-god?lang=eng"
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Chaz Owensby"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Ethan Cheung"
+      ],
+      "title": "\"How Can I Keep from Singing\""
+    },
+    {
+      "type": "Speaker",
+      "name": "Patriarch Ron Evans"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "General Conference",
+      "announcements": [
+        "We would like to remind everyone that General Conference will be held on the first weekend of April, with Easter Sunday taking place the following week. As such, we will be having April's fast & testimony meeting next week on March 26th."
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [
+    ],
+    "releases": [
+    ],
+    "callings": [
+      "Rhonda Capps as Primary Activities Leader"
+    ],
+    "deaths": []
+  }
+}
