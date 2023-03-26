@@ -6,9 +6,8 @@ export default function ActionButton({ link, text }) {
       <a href={link} target="_blank" rel="noreferrer">
         <button
           className="relative bg-transparent text-sky-600 font-semibold py-2 px-8 border-2 border-sky-600 rounded">
-          <span className="absolute top-0 left-0">
+          <span className="-z-10 absolute top-0 left-0">
             <LightRays color="#0ea5e9" />
-            {/* <LightRays color="#0284c7" /> */}
           </span>
           {text}
         </button>
