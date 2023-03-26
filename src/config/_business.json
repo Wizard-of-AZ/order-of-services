@@ -14,7 +14,7 @@
     {
       "type": "newMoveIns",
       "label": "New Move Ins",
-      "prompt": "We have recieved the records for a new family in our ward. Will you please stand as your name is read:",
+      "prompt": "We have recieved the records for a new (member/family) in our ward. Will you please stand as your name is read:",
       "prompt2": "All those who would like to welcome these individuals into our ward may show it by the uplifted hand."
     },
     {

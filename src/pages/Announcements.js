@@ -12,7 +12,7 @@ export default function Announcements({ announcements }) {
     <div>
       <h1 className="text-center py-2 church-font font-lg">Announcements</h1>
       {announcements.length &&
-        announcements.map((item) => <AnnouncementItem key={v4()} organization={item.organization} announcements={item.announcements} />)
+        announcements.map((item) => <AnnouncementItem key={v4()} organization={item.organization} announcements={item.announcements} link={item.link || {}} />)
       }
     </div>
   )

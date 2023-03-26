@@ -9,6 +9,8 @@ export default function TitleBlock({ ward }) {
   }, []);
 
   return [
+    // TODO: Toggle logos w/ a configurable flag.
+    // <img key="title-logo" src="/images/retro-logo.png" className="zero-auto w-2/3 md:w-1/2 py-4 pt-8" alt="church-logo" />,
     <img key="title-logo" src="/images/modern-logo.png" className="zero-auto w-3/4 md:w-1/2" alt="church-logo" />,
     <div key="title-credits" className="church-font text-center p-1 py-2">
       <p className="font-md">{ward}</p>

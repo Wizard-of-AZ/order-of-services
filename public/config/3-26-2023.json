@@ -1,0 +1,73 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": true,
+  "broadcastLink": "https://www.youtube.com/watch?v=GFvlwmQSCeM",
+  "secureHash": "8350e5z3e24c153df2175c9l80692773",
+  "image": "https://newsroom.churchofjesuschrist.org/media/960x540/1600x628-AV120413_cah0150.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Julie Clement",
+  "presiding": "Bishop Kent",
+  "conducting": "Matthew Hulse",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Shasha Anderson"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Chris Coleman"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "We Thank Thee, O God, for a Prophet",
+    "number": 19,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/we-thank-thee-o-god-for-a-prophet?lang=eng"
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "Father in Heaven, We Do Believe",
+    "number": 180,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/father-in-heaven-we-do-believe?lang=eng"
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "We Are Sowing",
+    "number": 216,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/we-are-sowing?lang=eng"
+  },
+  "services": [],
+  "announcements": [
+    {
+      "organization": "General Conference",
+      "announcements": [
+        "We would like to remind everyone that General Conference is next week. The schedule is posted online and can be found using the link below:"
+      ],
+      "link": {
+        "text": "Conference Schedule",
+        "url": "https://newsroom.churchofjesuschrist.org/event/april-2023-general-conference?lang=eng"
+      }
+    },
+    {
+      "organization": "Ward Employment Efforts",
+      "announcements": [
+        "We invite all ward members to prayerfully consider participating in the employment questionnairre. The link for the questionnaire can be found below:"
+      ],
+      "link": {
+        "url": "https://forms.gle/ceqVCkSZ8V7QNQtM6",
+        "text": "Questionnaire Link"
+      }
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [ "Chloe Overstreet" ],
+    "ordinations": [],
+    "newMoveIns": [ "Amber Meersman" ],
+    "other": [],
+    "releases": [],
+    "callings": [
+      "Becky Grenko as a Primary Teacher",
+      "Josh & Emily Palmer as Sunday School Teachers",
+      "Rhonda Stewart as a Primary Teacher and Relief Society Activities Committee Member"
+    ],
+    "deaths": []
+  }
+}
