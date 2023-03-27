@@ -64,8 +64,7 @@ function App() {
         <AppFooter currentRoute={currentRoute} />
       </div>
     ),
-    (config?.hasConfig && !canViewServices) && (<MembersOnly key="403" />),
-    !config?.hasConfig && (<NoConfig key="404" />)
+    (!config?.hasConfig || !canViewServices) && (<MembersOnly key="403" />)
   ];
 }
 
