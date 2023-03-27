@@ -4,7 +4,7 @@ import config from '../config/_about.json';
 export default function MembersOnly() {
   const styles = {
     image: {
-      height: '50vh',
+      height: '40vh',
       margin: '0 auto',
       padding: 16
     },
