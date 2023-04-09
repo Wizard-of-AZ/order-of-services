@@ -1,0 +1,87 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/watch?v=6qz3s1w2RCc",
+  "secureHash": "8350e5z3e24c153df2975c9l80692273",
+  "image": "https://newsroom.churchofjesuschrist.org/media/960x540/1600x628-AV120413_cah0150.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Julie Clement",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Chris Coleman"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Shauna Flake"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "He is Risen!",
+    "number": 199,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/he-is-risen?lang=eng"
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "God Loved Us, So He Sent His Son",
+    "number": 187,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/god-loved-us-so-he-sent-his-son?lang=eng"
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "My Reedemer Lives",
+    "number": 135,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/my-redeemer-lives?lang=eng"
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Aileen Speakman"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Dana Ranch Ward Choir",
+        "Holly Ashby"
+      ],
+      "title": "\"Christ the Lord is Risen Today\""
+    },
+    {
+      "type": "Speaker",
+      "name": "Joel Shumway"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Jarman Family"
+      ],
+      "title": "\"Risen\""
+    },
+    {
+      "type": "Speaker",
+      "name": "Bishop Kent"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Ward Employment Efforts",
+      "announcements": [
+        "We invite all ward members to prayerfully consider participating in the employment questionnairre. The link for the questionnaire can be found below:"
+      ],
+      "link": {
+        "url": "https://forms.gle/ceqVCkSZ8V7QNQtM6",
+        "text": "Questionnaire Link"
+      }
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [],
+    "callings": [],
+    "deaths": []
+  }
+}
