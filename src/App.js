@@ -7,7 +7,7 @@ import Business from './pages/Business';
 import { useConfig } from './utils/useConfig';
 import AppFooter from './components/AppFooter';
 import MembersOnly from './pages/MembersOnly';
-import NoConfig from './pages/NoConfig';
+import Talent from './pages/Talent';
 
 function App() {
   const [currentRoute, setRoute] = useState('');
@@ -64,7 +64,14 @@ function App() {
         <AppFooter currentRoute={currentRoute} />
       </div>
     ),
-    (!config?.hasConfig || !canViewServices) && (<MembersOnly key="403" />)
+    (!config?.hasConfig || !canViewServices) && (
+      <div key="200">
+        <Routes>
+          <Route path="/talent-night" element={<Talent />} />
+          <Route path="/*" element={<MembersOnly key="403" />} />
+        </Routes>
+      </div>
+    )
   ];
 }
 

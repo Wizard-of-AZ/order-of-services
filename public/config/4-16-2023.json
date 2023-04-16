@@ -1,0 +1,80 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/watch?v=6qz3s1w2RCc",
+  "secureHash": "835ee5z3e24c153df2975c9l80692273",
+  "image": "https://scontent.fphx1-2.fna.fbcdn.net/v/t39.30808-6/330391823_1434690147268649_1021465893228504191_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=973b4a&_nc_ohc=WvTQMVsOEo4AX_H3_45&_nc_ht=scontent.fphx1-2.fna&oh=00_AfCpxB8rl1Lh3JN1dLVgfTRBxxeCJKozkblwAYqyyCPDgA&oe=64411309",
+  "organist": "Whitney Kolstad",
+  "chorister": "Elizabeth Kasl",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Rhonda Capps"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Mackenzie Young"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Joseph Smith's First Prayer",
+    "number": 26,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/joseph-smiths-first-prayer?lang=eng"
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "With Humble Heart",
+    "number": 171,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/with-humble-heart?lang=eng"
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "We Ever Pray for Thee",
+    "number": 23,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/we-ever-pray-for-thee?lang=eng"
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Sister Laga"
+    },
+    {
+      "type": "Speaker",
+      "name": "Sister Westover"
+    },
+    {
+      "type": "Intermediate Hymn",
+      "musicians": [
+        "249"
+      ],
+      "title": "\"Called to Serve\"",
+      "link": "https://www.churchofjesuschrist.org/music/text/hymns/called-to-serve?lang=eng"
+    },
+    {
+      "type": "Speaker",
+      "name": "Laurin Ashby"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Ward Employment Efforts",
+      "announcements": [
+        "We invite all ward members to prayerfully consider participating in the employment questionnairre. The link for the questionnaire can be found below:"
+      ],
+      "link": {
+        "url": "https://forms.gle/ceqVCkSZ8V7QNQtM6",
+        "text": "Questionnaire Link"
+      }
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [],
+    "callings": [],
+    "deaths": []
+  }
+}
