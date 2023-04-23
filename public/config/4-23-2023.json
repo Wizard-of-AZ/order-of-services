@@ -1,0 +1,99 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/watch?v=GYV0g6NN6GY",
+  "secureHash": "835ee5z3e24c153df2975c9l80692273",
+  "image": "https://scontent.fphx1-2.fna.fbcdn.net/v/t39.30808-6/330391823_1434690147268649_1021465893228504191_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=973b4a&_nc_ohc=WvTQMVsOEo4AX_H3_45&_nc_ht=scontent.fphx1-2.fna&oh=00_AfCpxB8rl1Lh3JN1dLVgfTRBxxeCJKozkblwAYqyyCPDgA&oe=64411309",
+  "organist": "Whitney Kolstad",
+  "chorister": "Elizabeth Kasl",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Julie Clement"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Whitney Kolstad"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Come, All Ye Saints Of Zion",
+    "number": 31,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/come-all-ye-saints-of-zion?lang=eng"
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "Jesus of Nazareth, Savior and King",
+    "number": 181,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/jesus-of-nazareth-savior-and-king?lang=eng"
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Sing We Now at Parting",
+    "number": 156,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/sing-we-now-at-parting?lang=eng"
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Owen Capps"
+    },
+    {
+      "type": "Speaker",
+      "name": "Becky Grenko"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Kim Huffaker",
+        "Aileen Speakman",
+        "Kristen Reynolds",
+        "Emily Lewis",
+        "Holly Ashby"
+      ],
+      "title": "\"Power of His Love\""
+    },
+    {
+      "type": "Speaker",
+      "name": "Matt Garn"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Ward Employment Efforts",
+      "announcements": [
+        "We invite all ward members to prayerfully consider participating in the employment questionnairre. The link for the questionnaire can be found below:"
+      ],
+      "link": {
+        "url": "https://forms.gle/ceqVCkSZ8V7QNQtM6",
+        "text": "Questionnaire Link"
+      }
+    },
+    {
+      "organization": "Youth Fundraiser",
+      "announcements": [
+        "Please join us for a night of talent to raise funds for our summer camp activities on April 29th. 'Breakfast-for-Dinner' starts at 6pm, and there will be a talent gallery and show that starts at 7pm. Bake sale items will be available. Suggested donation amount is $25 per household. Donations can be given to a member of the Bishopric. Please RSVP to help us plan dinner accordingly:"
+      ],
+      "link": {
+        "url": "https://danaranchward.org/talent-night",
+        "text": "RSVP Link"
+      }
+    },
+    {
+      "organization": "Just Serve",
+      "announcements": [
+        "The International Day of Service is this Saturday the 29th. We will be meeting at the church at 8am for refreshments, followed by a service project at Taylor Jr High. Please have your youth bring gloves and wear clothes that can get paint on them."
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [],
+    "callings": [],
+    "deaths": []
+  }
+}
