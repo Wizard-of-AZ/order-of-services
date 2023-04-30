@@ -1,0 +1,87 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/watch?v=e0RYf4tugW8",
+  "secureHash": "135ee5z3e24c153df2975c9l80692223",
+  "image": "https://cdn.shopify.com/s/files/1/0241/8678/1751/files/New_Homepage_Banner_-_Desktop.jpg?v=1668559606",
+  "organist": "Kristen Reynolds",
+  "chorister": "Elizabeth Kasl",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Joel Shumway"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Dave Malone"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "O Saints Of Zion",
+    "number": 39,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/o-saints-of-zion?lang=eng"
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "We'll Sing All Hail to Jesus' Name",
+    "number": 182,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/well-sing-all-hail-to-jesus-name?lang=eng"
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Lead, Kindly Light",
+    "number": 97,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/lead-kindly-light?lang=eng"
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Conrad Hoover"
+    },
+    {
+      "type": "Speaker",
+      "name": "Susan Ray"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Anne Flaherty",
+        "Deanne Hoover"
+      ],
+      "title": "\"When I Am Baptized\""
+    },
+    {
+      "type": "Speaker",
+      "name": "Mark Fast"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Youth Fundraiser",
+      "announcements": [
+        "Our youth fundraise was on April 29th but you may still make a donation through the end of May if you like. Donations must be submitted with a paper donation slip with \"Youth Fundraiser\" written in the Other section. Thank you for your love and support for our youth!"
+      ]
+    },
+    {
+      "organization": "Just Serve",
+      "announcements": [
+        "The International Day of Service is this Saturday the 29th. Our youth will be meeting at the church at 8am for refreshments, followed by a service project at Taylor Jr High. Please have your youth bring gloves and wear clothes that can get paint on them."
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [
+      "Anne Flaherty",
+      "Aaron Clark"
+    ],
+    "ordinations": [],
+    "newMoveIns": [
+      "Kova Johnson"
+    ],
+    "other": ["Aaron Clark's Confirmation"],
+    "releases": [],
+    "callings": [],
+    "deaths": []
+  }
+}
