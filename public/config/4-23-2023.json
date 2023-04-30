@@ -19,7 +19,7 @@
   "openingHymn": {
     "type": "Opening Hymn",
     "title": "Come, All Ye Saints Of Zion",
-    "number": 31,
+    "number": 38,
     "link": "https://www.churchofjesuschrist.org/music/text/hymns/come-all-ye-saints-of-zion?lang=eng"
   },
   "sacramentHymn": {
@@ -91,7 +91,7 @@
     "baptisms": [],
     "ordinations": [],
     "newMoveIns": [],
-    "other": [],
+    "other": ["jarman's baby blessing"],
     "releases": [],
     "callings": [],
     "deaths": []
