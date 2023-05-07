@@ -1,0 +1,64 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": true,
+  "broadcastLink": "https://www.youtube.com/watch?v=1pWo55EDubY",
+  "secureHash": "123",
+  "image": "https://cdn.shopify.com/s/files/1/0241/8678/1751/files/New_Homepage_Banner_-_Desktop.jpg?v=1668559606",
+  "organist": "Whitney Kolstad",
+  "chorister": "Myrna Johnson",
+  "presiding": "Bishop Kent",
+  "conducting": "Matthew Hulse",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Will Shoemaker"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Harmony Price"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Let Zion in Her Beauty Rise",
+    "number": 41,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/let-zion-in-her-beauty-rise?lang=eng"
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "In Remembrance of Thy Suffering",
+    "number": 183,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/in-remembrance-of-thy-suffering?lang=eng"
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "As I Search the Holy Scriptures",
+    "number": 277,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/as-i-search-the-holy-scriptures?lang=eng"
+  },
+  "services": [],
+  "announcements": [
+    {
+      "organization": "Ward Employment Efforts",
+      "announcements": [
+        "We invite all ward members to prayerfully consider participating in the employment questionnairre. The link for the questionnaire can be found below:"
+      ],
+      "link": {
+        "url": "https://forms.gle/ceqVCkSZ8V7QNQtM6",
+        "text": "Questionnaire Link"
+      }
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [
+    ],
+    "ordinations": [],
+    "newMoveIns": [
+      "[Brother] Tendekai Sibanda"
+    ],
+    "other": ["Last week we forgot to ask for a sustaining vote to welcome Aaron Clark into the ward. All those who can welcome Aaron in full fellowship as a new member of our ward please show by the uplifted hand... Any opposed by the same sign..."],
+    "releases": [],
+    "callings": [],
+    "deaths": [
+      "Monica Nichols - The funeral will be June 3rd here at the Stake Center at 11am with a closed casket viewing beginning at 9:30."
+    ]
+  }
+}
