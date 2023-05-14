@@ -34,6 +34,10 @@
   "services": [
     {
       "type": "Speaker",
+      "name": "Jayna Hulse"
+    },
+    {
+      "type": "Speaker",
       "name": "Chris Cooley"
     },
     {
@@ -41,7 +45,7 @@
       "musicians": [
         "Capps Family"
       ],
-      "title": "\"Mother's Day Medley\""
+      "title": "\"Mothers Day Medley\""
     },
     {
       "type": "Speaker",
