@@ -1,0 +1,75 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/watch?v=FulJuQ6gkRw",
+  "secureHash": "23",
+  "image": "https://cdn.shopify.com/s/files/1/0241/8678/1751/files/New_Homepage_Banner_-_Desktop.jpg?v=1668559606",
+  "organist": "Kristen Reynolds",
+  "chorister": "Julie Clement",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "By Invitation"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Teach Me To Walk in the Light",
+    "number": 304
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "Upon the Cross of Calvary",
+    "number": 185
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Families Can Be Together Forever",
+    "number": 300
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Jayna Hulse"
+    },
+    {
+      "type": "Speaker",
+      "name": "Chris Cooley"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Capps Family"
+      ],
+      "title": "\"Mothers Day Medley\""
+    },
+    {
+      "type": "Speaker",
+      "name": "Mike Cooley"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Seminary",
+      "announcements": [
+        "Seminary graduation will be here at the Stake Center at 7pm on the 24th."
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [
+    ],
+    "ordinations": [],
+    "newMoveIns": [
+    ],
+    "other": [
+    ],
+    "releases": [],
+    "callings": [],
+    "deaths": []
+  }
+}
