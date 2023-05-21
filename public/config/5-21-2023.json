@@ -80,9 +80,9 @@
   "wardBusiness": {
     "baptisms": [],
     "ordinations": [],
-    "newMoveIns": [],
+    "newMoveIns": ["Nicholas and Kinsey Wallace"],
     "other": [],
-    "releases": [],
+    "releases": ["Rob Anderson as a primary teacher"],
     "callings": [],
     "deaths": []
   }
