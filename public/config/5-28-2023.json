@@ -1,0 +1,87 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/watch?v=gz_cFjx5oAM",
+  "secureHash": "21",
+  "image": "https://cdn.shopify.com/s/files/1/0241/8678/1751/files/New_Homepage_Banner_-_Desktop.jpg?v=1668559606",
+  "organist": "Whitney Kolstad",
+  "chorister": "Elizabeth Kasl",
+  "presiding": "Bishop Kent",
+  "conducting": "Matthew Hulse",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Joel Kasl"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Joy Kessler"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Now Let Us Rejoice",
+    "number": 3,
+    "link": "https://www.churchofjesuschrist.org/music/library/hymns/the-spirit-of-god?lang=eng"
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "Again We Meet around the Board",
+    "number": 186,
+    "link": "https://www.churchofjesuschrist.org/music/library/hymns/reverently-and-meekly-now?lang=eng"
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Lord Dismiss us With Thy Blessing",
+    "number": 163,
+    "link": "https://www.churchofjesuschrist.org/music/library/hymns/dearest-children-god-is-near-you?lang=eng"
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Emily Lewis"
+    },
+    {
+      "type": "Speaker",
+      "name": "Emily Palmer"
+    },
+    {
+      "type": "Musical Number",
+      "title": "\"When He Comes Again\"",
+      "number": "Primary Songbook p.82"
+    },
+    {
+      "type": "Speaker",
+      "name": "Joshua Palmer"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Monica Nichols",
+      "announcements": [
+        "Monica Nichols funeral services will be on June 3rd",
+        "There will be a closed casket viewing from 9:30am - 10:30am",
+        "The funeral services will be held from 11:00am - 12:00pm"
+      ]
+    },
+    {
+      "organization": "Stake Conference",
+      "announcements": [
+        "Stake Conference will be on June 3rd-4th.",
+        "The adult session will be on June 3rd from 6pm - 7:30pm",
+        "The leadership session will be on June 4th from 7:30am - 9am",
+        "The general session will begin on June 4th at 10am"
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [
+    ],
+    "other": [],
+    "releases": [
+      "Sandi Anderson as a primary teacher"
+    ],
+    "callings": [],
+    "deaths": []
+  }
+}
