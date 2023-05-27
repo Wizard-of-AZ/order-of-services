@@ -2,7 +2,7 @@
   "ward": "Dana Ranch Ward",
   "isFastSunday": false,
   "broadcastLink": "https://www.youtube.com/watch?v=gz_cFjx5oAM",
-  "secureHash": "21",
+  "secureHash": "99",
   "image": "https://cdn.shopify.com/s/files/1/0241/8678/1751/files/New_Homepage_Banner_-_Desktop.jpg?v=1668559606",
   "organist": "Whitney Kolstad",
   "chorister": "Elizabeth Kasl",
@@ -20,19 +20,19 @@
     "type": "Opening Hymn",
     "title": "Now Let Us Rejoice",
     "number": 3,
-    "link": "https://www.churchofjesuschrist.org/music/library/hymns/the-spirit-of-god?lang=eng"
+    "link": "https://www.churchofjesuschrist.org/music/library/hymns/now-let-us-rejoice?lang=eng"
   },
   "sacramentHymn": {
     "type": "Sacrament Hymn",
     "title": "Again We Meet around the Board",
     "number": 186,
-    "link": "https://www.churchofjesuschrist.org/music/library/hymns/reverently-and-meekly-now?lang=eng"
+    "link": "https://www.churchofjesuschrist.org/music/library/hymns/again-we-meet-around-the-board?lang=eng"
   },
   "closingHymn": {
     "type": "Closing Hymn",
-    "title": "Lord Dismiss us With Thy Blessing",
+    "title": "Lord, Dismiss Us With Thy Blessing",
     "number": 163,
-    "link": "https://www.churchofjesuschrist.org/music/library/hymns/dearest-children-god-is-near-you?lang=eng"
+    "link": "https://www.churchofjesuschrist.org/music/library/hymns/lord-dismiss-us-with-thy-blessing?lang=eng"
   },
   "services": [
     {
@@ -70,6 +70,10 @@
         "The leadership session will be on June 4th from 7:30am - 9am",
         "The general session will begin on June 4th at 10am"
       ]
+    },
+    {
+      "orgainzation": "June Fast Sunday",
+      "announcements": ["Due to Stake Conference, June's fast and testimony meeting will be on the 11th"]
     }
   ],
   "wardBusiness": {
