@@ -1,0 +1,53 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": true,
+  "broadcastLink": "https://www.youtube.com/watch?v=DF4uoskVtSw",
+  "secureHash": "21",
+  "image": "https://cdn.shopify.com/s/files/1/0241/8678/1751/files/New_Homepage_Banner_-_Desktop.jpg?v=1668559606",
+  "organist": "Whitney Kolstad",
+  "chorister": "Elizabeth Kasl",
+  "presiding": "Bishop Kent",
+  "conducting": "David Kolstad",
+  "invocation": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "By Invitation"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Welcome, Welcome, Sabbath Morning",
+    "number": 280,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/welcome-welcome-sabbath-morning?lang=eng"
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "Thy Will, O Lord, Be Done",
+    "number": 188,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/thy-will-o-lord-be-done?lang=eng"
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Lord, Accept Our True Devotion",
+    "number": 107,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/lord-accept-our-true-devotion?lang=eng"
+  },
+  "services": [],
+  "announcements": [
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [
+    ],
+    "other": [
+      "The Shoemaker's had their baby girl this week- mom and baby are healthy."
+    ],
+    "releases": [],
+    "callings": [],
+    "deaths": [
+    ]
+  }
+}
