@@ -1,0 +1,73 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/live/GTaOeRQOw9Q",
+  "secureHash": "2021",
+  "image": "https://cdn.shopify.com/s/files/1/0241/8678/1751/files/New_Homepage_Banner_-_Desktop.jpg?v=1668559606",
+  "organist": "Whitney Kolstad",
+  "chorister": "Elizabeth Kasl",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Joel Kasl"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Joy Kessler"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Love At Home",
+    "number": 294,
+    "link": "https://www.churchofjesuschrist.org/music/library/hymns/love-at-home?lang=eng"
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "In Memory Of The Crucified",
+    "number": 190,
+    "link": "https://www.churchofjesuschrist.org/music/library/hymns/in-memory-of-the-crucified?lang=eng"
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Home Can Be A Heaven On Earth",
+    "number": 298,
+    "link": "https://www.churchofjesuschrist.org/music/library/hymns/home-can-be-a-heaven-on-earth?lang=eng"
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Allison Kolstad"
+    },
+    {
+      "type": "Speaker",
+      "name": "Kristen Reynolds"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Dana Ranch Ward Primary"
+      ],
+      "title": "\"When Daddy Comes Home\" Medly"
+    },
+    {
+      "type": "Speaker",
+      "name": "Rhonda Capps"
+    }
+  ],
+  "announcements": [
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [
+      "Brock Huffaker"
+    ],
+    "other": [],
+    "releases": [
+      "Rob Anderson as a primary teacher"
+    ],
+    "callings": [],
+    "deaths": []
+  }
+}
