@@ -61,13 +61,22 @@
     "baptisms": [],
     "ordinations": [],
     "newMoveIns": [
-      "Brock Huffaker"
+      "Brock Huffaker",
+      "Rustin Standage"
     ],
     "other": [],
     "releases": [
-      "Rob Anderson as a primary teacher"
+      "D. Kersee as Priest Quorum Advisor",
+      "Roger Goodman as Priest Quorum Specialist"
     ],
-    "callings": [],
+    "callings": [
+      "D. Kersee as Primary Activities Boys Leader",
+      "Nicholas and Kinsey Wallace as Sunday School Teachers",
+      "Caitlin Jarmin as RS Activities Committee Member",
+      "Laurel Cronin as RS Activities Committee Member",
+      "MacKenzie Young as RS Activities Committee Member",
+      "Kristina Garn as CTR 4 Primary Teacher"
+    ],
     "deaths": []
   }
 }
