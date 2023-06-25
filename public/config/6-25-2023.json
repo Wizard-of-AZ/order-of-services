@@ -1,0 +1,74 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": null,
+  "secureHash": "2021",
+  "image": "https://cdn.shopify.com/s/files/1/0241/8678/1751/files/New_Homepage_Banner_-_Desktop.jpg?v=1668559606",
+  "organist": "Whitney Kolstad",
+  "chorister": "Myrna Johnson",
+  "presiding": "Bishop Kent",
+  "conducting": "David Kolstad",
+  "invocation": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "By Invitation"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Rock of Ages",
+    "number": 111,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "Behold the Great Redeemer Die",
+    "number": 191,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Abide with Me",
+    "number": 166,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Elder Kenner"
+    },
+    {
+      "type": "Speaker",
+      "name": "Elder Shapiro"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Priesthood of Dana Ranch Ward"
+      ],
+      "title": "\"Ye Elders of Isreal\" (instant choir)"
+    },
+    {
+      "type": "Speaker",
+      "name": "Jeff Downs"
+    }
+  ],
+  "announcements": [],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [
+      "Spencer Hardy as Sunday School Teacher",
+      "Will Shoemaker as Gospel Doctrine Instructor and as Building Cleaning Specialist"
+    ],
+    "callings": [
+      "Spencer Hardy as Priests Quorum Specialist",
+      "Will Shoemaker as Priests Quorum Advisor"
+    ],
+    "deaths": []
+  }
+}
