@@ -10,8 +10,8 @@ export default function AppFooter({ currentRoute }) {
       <div className="py-2 mb-8 text-center">
         {currentRoute !== '/services' && <RouteLink route="/services" text="Back To Order of Services" />}
         {currentRoute === '/services' && <RouteLink route="/announcements" text="View Announcements" />}
-        {currentRoute === '/services' && <RouteLink route="/about" text="View Ward Leadership" />}
-        {currentRoute === '/announcements' && <RouteLink url={circlesUrl} text="Join The Conversation In Circles" />}
+        {/* {currentRoute === '/services' && <RouteLink route="/about" text="View Ward Leadership" />} */}
+        {/* {currentRoute === '/announcements' && <RouteLink url={circlesUrl} text="Join The Conversation In Circles" />} */}
         {currentRoute === '/announcements' && <RouteLink url="https://www.churchofjesuschrist.org/calendar/month" text="View Ward Calendar" />}
         {/* {currentRoute === '/announcements' && <RouteLink url="https://discord.gg/QmUrmzUxCt" text="Join The Conversation On Discord" />} */}
       </div>

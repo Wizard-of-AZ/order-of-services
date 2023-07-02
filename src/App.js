@@ -48,8 +48,9 @@ function App() {
   // TODO: Create prompt components for ward business. Block quotes for what to say.
   //TODO: In schema, everywhere we have "organization" or "type", change to "label".
   
+  // (config?.hasConfig && canViewServices) && (
   return [
-    (config?.hasConfig && canViewServices) && (
+    (config?.hasConfig) && (
       <div key="200">
         <img src={config.image} alt="church-logo" />
         <div className="p-2">
@@ -64,7 +65,7 @@ function App() {
         <AppFooter currentRoute={currentRoute} />
       </div>
     ),
-    (!config?.hasConfig || !canViewServices) && (
+    (!config?.hasConfig) && (
       <div key="200">
         <Routes>
           <Route path="/talent-night" element={<Talent />} />
