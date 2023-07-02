@@ -1,0 +1,51 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": true,
+  "broadcastLink": "https://www.youtube.com/watch?v=2MIq1AviOXE",
+  "secureHash": "1",
+  "image": "https://cdn.shopify.com/s/files/1/0241/8678/1751/files/New_Homepage_Banner_-_Desktop.jpg?v=1668559606",
+  "organist": "Whitney Kolstad",
+  "chorister": "Julie Clement",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "By Invitation"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "My Country 'Tis Of Thee",
+    "number": 339,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "He Died, The Great Redeemer Died",
+    "number": 192,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "America The Beautiful",
+    "number": 338,
+    "link": null
+  },
+  "services": [
+  ],
+  "announcements": [],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [
+    ],
+    "callings": [
+    ],
+    "deaths": []
+  }
+}
