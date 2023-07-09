@@ -5,7 +5,7 @@
   "secureHash": "1",
   "image": "https://cdn.shopify.com/s/files/1/0241/8678/1751/files/New_Homepage_Banner_-_Desktop.jpg?v=1668559606",
   "organist": "Whitney Kolstad",
-  "chorister": "Myrna Johnson",
+  "chorister": "Cindy Fast",
   "presiding": "Bishop Kent",
   "conducting": "Bishop Kent",
   "invocation": {
@@ -18,20 +18,20 @@
   },
   "openingHymn": {
     "type": "Opening Hymn",
-    "title": "Faith of our Fathers",
-    "number": 84,
+    "title": "God of our Fathers",
+    "number": 78,
     "link": null
   },
   "sacramentHymn": {
     "type": "Sacrament Hymn",
-    "title": "How Great the Wisdom and the Love",
-    "number": 195,
+    "title": "There is a Green Hill Far Away",
+    "number": 194,
     "link": null
   },
   "closingHymn": {
     "type": "Closing Hymn",
-    "title": "Love at Home",
-    "number": 294,
+    "title": "Abide with Me Tis Eventide",
+    "number": 165,
     "link": null
   },
   "services": [
@@ -44,11 +44,11 @@
       "name": "Kinsey Wallace"
     },
     {
-      "type": "Musical Number",
+      "type": "Congregational Hymn",
       "musicians": [
-        "Huffaker Family"
+        "60"
       ],
-      "title": "Special Musical Number"
+      "title": "Battle Hymn"
     },
     {
       "type": "Speaker",
