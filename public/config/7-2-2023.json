@@ -36,9 +36,12 @@
   },
   "services": [
   ],
-  "announcements": [],
+  "announcements": [
+    "We will be starting a new Sunday School class, Gospel Essentials, on 1st and 3rd Sundays in room 20",
+    "We have a new ward-specific 'Lost and Found' which will be in the Clerks office. We have items dating back to last year's girls camp so stop by if you are missing anything from camp."
+  ],
   "wardBusiness": {
-    "baptisms": [],
+    "baptisms": ["Olivia Downs"],
     "ordinations": [],
     "newMoveIns": [],
     "other": [],

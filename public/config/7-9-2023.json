@@ -1,0 +1,73 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/watch?v=4OQTBfmoMg8",
+  "secureHash": "1",
+  "image": "https://cdn.shopify.com/s/files/1/0241/8678/1751/files/New_Homepage_Banner_-_Desktop.jpg?v=1668559606",
+  "organist": "Whitney Kolstad",
+  "chorister": "Myrna Johnson",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "By Invitation"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Faith of our Fathers",
+    "number": 84,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "How Great the Wisdom and the Love",
+    "number": 195,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Love at Home",
+    "number": 294,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Juliet Coleman"
+    },
+    {
+      "type": "Speaker",
+      "name": "Kinsey Wallace"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Huffaker Family"
+      ],
+      "title": "Special Musical Number"
+    },
+    {
+      "type": "Speaker",
+      "name": "Nicholas Wallace"
+    }
+  ],
+  "announcements": [],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [
+      "Nielson Family: Camden, Olivia, and Cosette"
+    ],
+    "other": [],
+    "releases": [
+    ],
+    "callings": [
+      "Ben and Melissa Murray as Primary Teachers",
+    ],
+    "deaths": []
+  }
+}
