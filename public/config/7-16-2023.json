@@ -1,0 +1,68 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://youtube.com/live/DQmxsw2kgk4",
+  "secureHash": "1",
+  "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Julie Clement",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "By Invitation"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Faith of our Fathers",
+    "number": 84,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "Oh How Great The Wisdom And The Love",
+    "number": 195,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Love At Home",
+    "number": 294,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Zack Skelton"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Huffaker Family"
+      ],
+      "title": "A Family Is Forever"
+    },
+    {
+      "type": "Speaker",
+      "name": "Merrill Heslop"
+    }
+  ],
+  "announcements": [],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [
+      "Nielson Family: Camden, Olivia, and Cosette"
+    ],
+    "other": [],
+    "releases": [],
+    "callings": [
+      "Ben and Melissa Murray as Primary Teachers"
+    ],
+    "deaths": []
+  }
+}
