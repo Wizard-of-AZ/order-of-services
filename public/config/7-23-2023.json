@@ -1,0 +1,70 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/watch?v=E6QdXFLQFAs",
+  "secureHash": "1",
+  "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
+  "organist": "Melody Williams",
+  "chorister": "Elizabeth Kasl",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "by invitation"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "by invitation"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "For The Strength Of The Hills",
+    "number": 35,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "Jesus Once Of Humble Birth",
+    "number": 196,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Come All Ye Saints In Zion",
+    "number": 38,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Logan Kent"
+    },
+    {
+      "type": "Congregational Hymn",
+      "musicians": [
+        "30"
+      ],
+      "title": "Come Come Ye Saints"
+    },
+    {
+      "type": "Speaker",
+      "name": "Ryan Workman"
+    },
+    {
+      "type": "Speaker",
+      "name": "Myrna Johnson"
+    }
+  ],
+  "announcements": [],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [
+      "DJ and Brie Gates"
+    ],
+    "other": [],
+    "releases": [],
+    "callings": [],
+    "deaths": []
+  }
+}
