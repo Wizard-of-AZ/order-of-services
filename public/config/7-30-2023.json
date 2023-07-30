@@ -1,0 +1,70 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/live/-CO9HyX2qOg?feature=share",
+  "secureHash": "1",
+  "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Elizabeth Kasl",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Amaela Kersee"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Kayden Workman"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "They The Builders Of The Nation",
+    "number": 36,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "God Loved Us So He Sent His Son",
+    "number": 197,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Carry On",
+    "number": 355,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Hunter Reynolds"
+    },
+    {
+      "type": "Speaker",
+      "name": "Shauna Flake"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Hulse Famly",
+        "Kristen Reynolds (acc)"
+      ],
+      "title": "The Savior Lives"
+    },
+    {
+      "type": "Speaker",
+      "name": "Kim Huffaker"
+    }
+  ],
+  "announcements": [],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [
+    ],
+    "other": [],
+    "releases": [],
+    "callings": [],
+    "deaths": []
+  }
+}
