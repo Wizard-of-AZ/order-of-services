@@ -1,0 +1,53 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": true,
+  "broadcastLink": "https://www.youtube.com/watch?v=gusWQd91T04",
+  "secureHash": "1",
+  "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Julie Clement",
+  "presiding": "Bishop Kent",
+  "conducting": "Matthew Hulse",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Aileen Speakman"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Mike Wilhelm"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "In Our Lovely Deseret",
+    "number": 307,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "I Stand All Amazed",
+    "number": 193,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Our Saviors Love",
+    "number": 113,
+    "link": null
+  },
+  "services": [],
+  "announcements": [
+    "Ward Temple night will be this Saturday night at the 6:15 session. Seats are still available so please make a reservation and come."
+  ],
+  "wardBusiness": {
+    "baptisms": [
+    ],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [
+      "Shoemaker's baby blessing"
+    ],
+    "releases": [],
+    "callings": [],
+    "deaths": []
+  }
+}
