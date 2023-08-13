@@ -56,7 +56,8 @@
     }
   ],
   "announcements": [
-    "Ward Conference will be in 2 weeks on August 27th."
+    {"organization": "Ward Conference",
+    "announcements":["Ward Conference will be in 2 weeks on August 27th."]}
   ],
   "wardBusiness": {
     "baptisms": [],
