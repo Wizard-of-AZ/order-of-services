@@ -1,0 +1,70 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/watch?v=I_iMlP599io",
+  "secureHash": "1",
+  "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Julie Clement",
+  "presiding": "Bishop Kent",
+  "conducting": "Matthew Hulse",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Amaela Kersee"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Kayden Workman"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Come Let Us Anew",
+    "number": 217,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "As Now We Take The Sacrament",
+    "number": 169,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Come Unto Jesus",
+    "number": 117,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Fenix Huffaker"
+    },
+    {
+      "type": "Speaker",
+      "name": "Mary Liddle"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Ward Choir"
+      ],
+      "title": "Secret Prayer"
+    },
+    {
+      "type": "Speaker",
+      "name": "Earl Liddle"
+    }
+  ],
+  "announcements": [
+    "Ward Conference will be in 2 weeks on August 27th."
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [],
+    "callings": [],
+    "deaths": []
+  }
+}
