@@ -1,0 +1,76 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/watch?v=qXN_g0gSkWQ",
+  "secureHash": "1",
+  "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Myrna Johnson",
+  "presiding": "Bishop Kent",
+  "conducting": "Matthew Hulse",
+  "invocation": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "By Invitation"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Let Us All Press On",
+    "number": 243,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "God Our Father Hear Us Pray",
+    "number": 170,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Precious Savior",
+    "number": 103,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Elder Drew Shumway"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Daisy Capps",
+        "Vivian Johnson",
+        "Anna Richardson"
+      ],
+      "title": "Peace In Christ"
+    },
+    {
+      "type": "Speaker",
+      "name": "Riley Price"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Ward Conference",
+      "announcements": [
+        "Ward Conference will be in 2 weeks on August 27th."
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [
+      "Welcome home Elder Drew Shumway from Colombia",
+      "One item of Stake business"
+    ],
+    "releases": [],
+    "callings": [],
+    "deaths": []
+  }
+}
