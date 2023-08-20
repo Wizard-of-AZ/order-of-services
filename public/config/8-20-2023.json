@@ -10,11 +10,11 @@
   "conducting": "Matthew Hulse",
   "invocation": {
     "type": "Invocation",
-    "name": "By Invitation"
+    "name": "Emily Lewis"
   },
   "benediction": {
     "type": "Benediction",
-    "name": "By Invitation"
+    "name": "Max Shumway"
   },
   "openingHymn": {
     "type": "Opening Hymn",
@@ -58,6 +58,12 @@
       "organization": "Ward Conference",
       "announcements": [
         "Ward Conference will be next week on August 27th."
+      ]
+    },
+    {
+      "organization": "Ward Conference",
+      "announcements": [
+        "Mission and Life Skills kickoff is on Sunday August 27th at 4 pm in the Stake Center.  We would like to invite all your juniors and seniors (both YM and YW) to attend."
       ]
     }
   ],
