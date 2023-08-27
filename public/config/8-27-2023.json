@@ -1,0 +1,72 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://youtube.com/live/9twWpYY3vIw?feature=share",
+  "secureHash": "1",
+  "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Kristen Reynolds",
+  "presiding": "President Trent Montague",
+  "conducting": "Bishop Brandon Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Haylee Hulse"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Tyler Cornia"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "How Firm A Foundation",
+    "number": 85,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "With Humble Heart",
+    "number": 171,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Come Follow Me",
+    "number": 116,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Bishop Brandon Kent"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Dillon & Tegan Grenko"
+      ],
+      "title": "Come Come Ye Saints"
+    },
+    {
+      "type": "Speaker",
+      "name": "President Trent Montague"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Mission Prep",
+      "announcements": [
+        "Mission and Life Skills kickoff is on Sunday August 27th at 4 pm in the Stake Center.  We would like to invite all your juniors and seniors (both YM and YW) to attend."
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [
+    ],
+    "releases": [],
+    "callings": [],
+    "deaths": []
+  }
+}
