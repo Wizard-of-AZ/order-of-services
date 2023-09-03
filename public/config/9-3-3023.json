@@ -1,0 +1,67 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": true,
+  "broadcastLink": "https://youtube.com/live/nP4RyGcR39c?feature=share",
+  "secureHash": "1",
+  "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Holly Ashby",
+  "presiding": "Bishop Kent",
+  "conducting": "Matthew Hulse",
+  "invocation": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "By Invitation"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "I'll Go Where You Want Me To Go",
+    "number": 270,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "In Humility Our Savior",
+    "number": 172,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Oh May My Soul Commune With Thee",
+    "number": 123,
+    "link": null
+  },
+  "services": [],
+  "announcements": [
+    {
+      "organization": "Daddy Daughter Outing",
+      "announcements": [
+        "Our daddy daughter outing will be this Friday and Saturday just north of Pine. For more information please reachout to a member of the Elders Quorum Presidency."
+      ]
+    },
+    {
+      "organization": "9/11 Day of Service",
+      "announcements": [
+        "For our 9/11 Day of Service we will be joining with the Unity of Mesa church at 2700 E. Southern (Lindsay and Southern) this Saturday from 10am - 11am. We will be assembling snack bags and cards for our service men and women. Families and youth of all ages are welcome."
+      ]
+    },
+    {
+      "organization": "Primary Program",
+      "announcements": [
+        "Our Primary Program will be on September 24th. The Primary will be practicing here in the Chapel during 2nd hour so lets please reverently get to class after Sacrament meeting in a timely manner so they can have time to practice."
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [],
+    "callings": [],
+    "deaths": []
+  }
+}
