@@ -10,11 +10,11 @@
   "conducting": "Matthew Hulse",
   "invocation": {
     "type": "Invocation",
-    "name": "By Invitation"
+    "name": "Jim Stewart"
   },
   "benediction": {
     "type": "Benediction",
-    "name": "By Invitation"
+    "name": "Terri Smith"
   },
   "openingHymn": {
     "type": "Opening Hymn",
@@ -60,8 +60,12 @@
     "ordinations": [],
     "newMoveIns": [],
     "other": [],
-    "releases": [],
-    "callings": [],
+    "releases": [
+      "Kim Huffaker as a Primary Teacher and as a Primary Activities Leader"
+    ],
+    "callings": [
+      "Kim Huffaker as a Gospel Doctrine Instructor"
+    ],
     "deaths": []
   }
 }
