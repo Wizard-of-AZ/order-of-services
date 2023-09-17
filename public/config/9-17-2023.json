@@ -1,0 +1,77 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://youtube.com/live/rpyn6xeljRI?feature=share",
+  "secureHash": "1",
+  "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Kim Huffaker",
+  "presiding": "Bishop Kent",
+  "conducting": "David Kolstad",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Brie Gates"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "DJ Gates"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "God Speed The Right",
+    "number": 106,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "While Of These Emblems We Partake",
+    "number": 174,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "A Poor Wayfaring Man Of Grief",
+    "number": 29,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Micah Gneiting"
+    },
+    {
+      "type": "Intermediate Hymn",
+      "musicians": [
+        "7"
+      ],
+      "title": "Isreal Isreal God Is Calling"
+    },
+    {
+      "type": "Speaker",
+      "name": "Jeremy Sharp"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Primary Program",
+      "announcements": [
+        "Our Primary Program will be on September 24th. The Primary will be practicing here in the Chapel during 2nd hour so lets please reverently get to class after Sacrament meeting in a timely manner so they can have time to practice."
+      ]
+    },
+    {
+      "organization": "Sunday School",
+      "announcements": [
+        "We will be having a special Sunday School lesson for all the youth during 2nd hour in the Primary room. Sunday school teachers who normally teach youth during 2nd hour can go to gospel doctrine today."
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [],
+    "callings": ["Amee Shelley as compassionate service chair memeber"],
+    "deaths": []
+  }
+}
