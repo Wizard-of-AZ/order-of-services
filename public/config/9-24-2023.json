@@ -1,0 +1,60 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "isPrimaryProgram": true,
+  "broadcastLink": "https://www.youtube.com/watch?v=vzgtZFzS1wQ",
+  "secureHash": "1",
+  "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Julie Clement",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Phoenix Bellessa"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Kylin Hardy"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "I Am A Child Of God",
+    "number": 301,
+    "link": "https://www.churchofjesuschrist.org/music/library/hymns/i-am-a-child-of-god?lang=eng"
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "O God, The Eternal Father",
+    "number": 175,
+    "link": "https://www.churchofjesuschrist.org/music/library/hymns/o-god-the-eternal-father?lang=eng"
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Families Can Be Together Forever",
+    "number": 300,
+    "link": "https://www.churchofjesuschrist.org/music/library/hymns/families-can-be-together-forever?lang=eng"
+  },
+  "services": [
+
+  ],
+  "announcements": [
+    {
+      "organization": "General Conference",
+      "announcements": [
+        "General Conference will be next weekend, for more information please reference the church website.",
+        "Our fast Sunday in October will be the following week on the 8th."
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [],
+    "callings": [
+    ],
+    "deaths": []
+  }
+}
