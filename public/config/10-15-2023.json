@@ -1,0 +1,72 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "",
+  "secureHash": "1",
+  "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Kim Huffaker",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Brie Gates"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "DJ Gates"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "God Speed The Right",
+    "number": 106,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "While Of These Emblems We Partake",
+    "number": 174,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "A Poor Wayfaring Man Of Grief",
+    "number": 29,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Micah Gneiting"
+    },
+    {
+      "type": "Intermediate Hymn",
+      "musicians": [
+        "7"
+      ],
+      "title": "Isreal Isreal God Is Calling"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Ward Trunk Or Treat",
+      "announcements": [
+        ""
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [
+      "Ryan and Camilla Workman as FSY Specialists",
+      "Camilla Workman as a Primary Teacher"
+    ],
+    "callings": [
+      "Ryan and Camilla Workman as Sunday School Instructors"
+    ],
+    "deaths": []
+  }
+}
