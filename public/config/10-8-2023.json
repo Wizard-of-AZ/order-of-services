@@ -1,0 +1,53 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": true,
+  "broadcastLink": "https://www.youtube.com/watch?v=HtSBSkyqHxw",
+  "secureHash": "1",
+  "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Joe Capps",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "by invitation"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "by invitation"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Come Listen To A Prophets Voice",
+    "number": 21,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "Tis Sweet To Sing The Matchless Love",
+    "number": 177,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Lead Me Into Life Eternal",
+    "number": 45,
+    "link": null
+  },
+  "services": [],
+  "announcements": [
+
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [
+      "Tyler and Danielle Cornia as Sunday school instructors"
+    ],
+    "callings": [
+    ],
+    "deaths": []
+  }
+}
