@@ -1,57 +1,65 @@
 {
   "ward": "Dana Ranch Ward",
   "isFastSunday": false,
-  "broadcastLink": "",
+  "broadcastLink": "https://www.youtube.com/watch?v=PkbDz49G5wE",
   "secureHash": "1",
   "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
   "organist": "Whitney Kolstad",
-  "chorister": "Kim Huffaker",
+  "chorister": "Steven Ray",
   "presiding": "Bishop Kent",
   "conducting": "Bishop Kent",
   "invocation": {
     "type": "Invocation",
-    "name": "Brie Gates"
+    "name": "Paul Cox"
   },
   "benediction": {
     "type": "Benediction",
-    "name": "DJ Gates"
+    "name": "Nelly Cox"
   },
   "openingHymn": {
     "type": "Opening Hymn",
-    "title": "God Speed The Right",
-    "number": 106,
+    "title": "Hark, All Ye Nations",
+    "number": 264,
     "link": null
   },
   "sacramentHymn": {
     "type": "Sacrament Hymn",
-    "title": "While Of These Emblems We Partake",
-    "number": 174,
+    "title": "O Lord Of Hosts",
+    "number": 178,
     "link": null
   },
   "closingHymn": {
     "type": "Closing Hymn",
-    "title": "A Poor Wayfaring Man Of Grief",
-    "number": 29,
+    "title": "Be Still My Soul",
+    "number": 124,
     "link": null
   },
   "services": [
     {
       "type": "Speaker",
-      "name": "Micah Gneiting"
+      "name": "Elder Cole"
+    },
+    {
+      "type": "Speaker",
+      "name": "Elder Shapiro"
     },
     {
       "type": "Intermediate Hymn",
       "musicians": [
-        "7"
+        ""
       ],
-      "title": "Isreal Isreal God Is Calling"
+      "title": "I'm Trying To Be Like Jesus"
+    },
+    {
+      "type": "Speaker",
+      "name": "Amee Shelley"
     }
   ],
   "announcements": [
     {
       "organization": "Ward Trunk Or Treat",
       "announcements": [
-        ""
+        "We will have our annual trunk or treat party on Oct 25th from 6pm - 8pm."
       ]
     }
   ],
@@ -61,11 +69,9 @@
     "newMoveIns": [],
     "other": [],
     "releases": [
-      "Ryan and Camilla Workman as FSY Specialists",
-      "Camilla Workman as a Primary Teacher"
+      "Ryan and Camilla Workman as FSY Specialists"
     ],
     "callings": [
-      "Ryan and Camilla Workman as Sunday School Instructors"
     ],
     "deaths": []
   }
