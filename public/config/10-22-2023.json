@@ -1,0 +1,87 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://youtube.com/live/nyGtGEHbkXY?feature=share",
+  "secureHash": "1",
+  "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Steven Ray",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Joel Shumway"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Autumn Shumway"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Now We'll Sing With One Accord",
+    "number": 25,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "Father In Heaven We Do Believe",
+    "number": 180,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Let Us Oft Speak Kind Words",
+    "number": 232,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Sydney Kent"
+    },
+    {
+      "type": "Intermediate Hymn",
+      "musicians": [
+        "251"
+      ],
+      "title": "Behold The Royal Army"
+    },
+    {
+      "type": "Speaker",
+      "name": "Bishop Kent"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Ward Trunk Or Treat",
+      "announcements": [
+        "We will have our annual trunk or treat party on Oct 25th from 6pm - 8pm."
+      ]
+    },
+    {
+      "organization": "Worldwide Day Of Testimony",
+      "announcements": [
+        "Tonight at 7pm, here in the Young Womens room have a special testimony meeting. Please come in Sunday dress, refreshments will be provided."
+      ]
+    },
+    {
+      "organization": "Special Youth Lesson Today",
+      "announcements": [
+        "Today during 2nd hour we will be having a special lesson for the youth in the Young Womens room. We ask that the youth please head to the Young Womens room in a timely manner after Sacrament meeting today."
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [
+
+    ],
+    "callings": [
+
+    ],
+    "deaths": []
+  }
+}
