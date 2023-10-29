@@ -1,0 +1,78 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://youtube.com/live/ygvNwhuYPsM?feature=share",
+  "organist": "Whitney Kolstad",
+  "chorister": "Myrna Johnson",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "By Invitation"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Awake, Ye Saints of God, Awake!",
+    "number": 17,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "Jesus of Nazareth, Savior and King",
+    "number": 181,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Scatter Sunshine",
+    "number": 230,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Brie Gates"
+    },
+    {
+      "type": "Speaker",
+      "name": "DJ Gates"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Cornia Family"
+      ],
+      "title": "Gethsemane"
+    },
+    {
+      "type": "Speaker",
+      "name": "George Kimber"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Special Youth Lesson Today",
+      "announcements": [
+        "Today during 2nd hour we will be having a special lesson for the youth in the Young Womens room. We ask that the youth please head to the Young Womens room in a timely manner after Sacrament meeting today."
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [
+      "Spencer Hardy as Priest Quorum Specialist",
+      "Riley Price as Deacons Quorum Specialist"
+    ],
+    "callings": [
+      "Paul Kessler as Priest Quorum Specialist"
+    ],
+    "deaths": []
+  }
+}
