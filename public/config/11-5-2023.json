@@ -1,0 +1,49 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": true,
+  "broadcastLink": "https://zoom.us/j/98508434243",
+  "secureHash": "1",
+  "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Elizabeth Kasl",
+  "presiding": "Bishop Kent",
+  "conducting": "Matthew Hulse",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Robert Anderson"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Holly Ashby"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Praise the Lord with Heart and Voice",
+    "number": 73,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "We'll Sing All Hail to Jesus' Name",
+    "number": 182,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Praise God, from Whom All Blessings Flow",
+    "number": 242,
+    "link": null
+  },
+  "services": [],
+  "announcements": [],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [
+    ],
+    "callings": [],
+    "deaths": []
+  }
+}
