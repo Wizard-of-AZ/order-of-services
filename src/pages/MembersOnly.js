@@ -25,9 +25,11 @@ export default function MembersOnly() {
       <div style={styles.text}>
         <h2>The Dana Ranch Ward order of services is distributed weekly to ward members, and is accessible via email link only. Please check your email inbox or contact a member of the Bishopric for assistance.</h2>
       </div>
-      <div style={styles.scheduleBtn}>
-        <ActionButton link={config.scheduleLink} text="Schedule With Bishop" />
-      </div>
+      {false &&
+        <div style={styles.scheduleBtn}>
+          <ActionButton link={config.scheduleLink} text="Schedule With Bishop" />
+        </div>
+      }
     </div>
   );
 }
