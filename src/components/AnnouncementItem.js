@@ -17,7 +17,7 @@ export default function AnnouncementItem({ organization, announcements, link }) 
 
               {/* TODO: Make routeLink more generic to use here. */}
               {link && (
-                <a className="underline my-1 font-route text-sky-600 font-semibold" href={link.url} target="_blank" rel="noreferrer">{link.text}</a>
+                <a className="underline my-1 font-route text-sky-600 font-semibold" href={link} target="_blank" rel="noreferrer">{link}</a>
               )}
             </div>
           );
