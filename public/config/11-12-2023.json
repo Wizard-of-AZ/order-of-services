@@ -1,0 +1,83 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https: //youtube.com/live/B-oM9eqZ6Nc?feature=share",
+  "secureHash": "1",
+  "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Laurin Ashby",
+  "presiding": "Bishop Kent",
+  "conducting": "Matthew Hulse",
+  "invocation": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "By Invitation"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Father, Thy Children to Thee Now Raise",
+    "number": 91,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "In Remembrance of Thy Suffering",
+    "number": 183,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "O God, Our Help in Ages Past",
+    "number": 31,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Max Garn"
+    },
+    {
+      "type": "Intermediate Hymn",
+      "musicians": [
+        "241"
+      ],
+      "title": "Count Your Many Blessings"
+    },
+    {
+      "type": "Speaker",
+      "name": "Ben Murray"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Mesa Temple Events",
+      "announcements": [
+        "During the holiday season the Mesa temple will be hosting a variety of events, we encourage families to attend and keep an eye on the calendar here:"
+      ],
+      "link": "https://mesatemple.org/events/"
+    },
+    {
+      "organization": "Tithing Declaration",
+      "announcements": [
+        "Tithing Declaration is underway! Please use this sign-up link to make an appointment to meet with Bishop at your convenience:"
+      ],
+      "link": "https://calendly.com/bishop-kent/tithing-declaration"
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [
+      "Tim & Laurel Cronin as Self Reliance Specialists"
+    ],
+    "callings": [
+      "Laurel Cronin as a Ward Chorister"
+    ],
+    "deaths": []
+  }
+}
