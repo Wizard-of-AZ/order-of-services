@@ -1,0 +1,98 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/live/g_ptz2EP6Hk?feature=share",
+  "secureHash": "1",
+  "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Laurel Cronin",
+  "presiding": "Bishop Kent",
+  "conducting": "Matthew Hulse",
+  "invocation": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "By Invitation"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "For The Beauty Of The Earth",
+    "number": 92,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "Reverently and Meekly Now",
+    "number": 185,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "How Great Thou Art",
+    "number": 86,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Dolly Huffaker"
+    },
+    {
+      "type": "Speaker",
+      "name": "Pam Webb"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Kolstad Family",
+        "acc. Kristen Reynolds"
+      ],
+      "title": "Thankful"
+    },
+    {
+      "type": "Speaker",
+      "name": "Sheldon Webb"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Tithing Declaration",
+      "announcements": [
+        "Tithing Declaration is underway! Please use this sign-up link to make an appointment to meet with Bishop at your convenience:"
+      ],
+      "link": "https://calendly.com/bishop-kent/tithing-declaration"
+    },
+    {
+      "organization": "Mesa Temple Events",
+      "announcements": [
+        "During the holiday season the Mesa temple will be hosting a variety of events, we encourage families to attend and keep an eye on the calendar (link below).",
+        "Christmas Lights will be beginning on November 24th, we are encouraged to attend with family and friends."
+      ],
+      "link": "https://mesatemple.org/events/"
+    },
+    {
+      "organization": "Light The World",
+      "announcements": [
+        "The Giving Machines are back (closest to us is in downtown Gilbert), we are encouraged to attend with family and friends."
+      ]
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [
+      "Lily Andersen",
+      "Reagan Jarman",
+      "Jaxon Kent"
+    ],
+    "ordinations": [],
+    "newMoveIns": [
+      "Collett Family"
+    ],
+    "other": [
+    ],
+    "releases": [],
+    "callings": [],
+    "deaths": []
+  }
+}
