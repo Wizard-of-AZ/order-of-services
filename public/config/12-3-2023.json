@@ -38,28 +38,20 @@
   "announcements": [
     {
       "organization": "Mesa Temple Events",
-      "announcements": [
-        "During the holiday season the Mesa temple will be hosting a variety of events (including Christmas lights), we encourage families to attend and keep an eye on the calendar here:"
-      ],
+      "announcements": "During the holiday season the Mesa temple will be hosting a variety of events (including Christmas lights), we encourage families to attend and keep an eye on the calendar here:",
       "link": "https://mesatemple.org/events/"
     },
     {
       "organization": "Light The World",
-      "announcements": [
-        "The Giving Machines are back (closest to us is in downtown Gilbert), we are encouraged to attend with family and friends."
-      ]
+      "announcements": "The Giving Machines are back (closest to us is in downtown Gilbert), we are encouraged to attend with family and friends."
     },
     {
       "organization": "Family Activities",
-      "announcements": [
-        "On Monday, Dec. 4 at 7pm, there is a Christmas sing-along on the Ashbys front lawn at 7 pm. Please bring lawn chairs and blankets to stay warm."
-      ]
+      "announcements": "On Monday, Dec. 4 at 7pm, there is a Christmas sing-along on the Ashbys front lawn at 7 pm. Please bring lawn chairs and blankets to stay warm."
     },
     {
       "organization": "Tithing Declaration",
-      "announcements": [
-        "Today is the last day to sign-up for tithing declaration. Please use this sign-up link to make an appointment to meet with Bishop at your convenience:"
-      ],
+      "announcements": "Today is the last day to sign-up for tithing declaration. Please use this sign-up link to make an appointment to meet with Bishop at your convenience:",
       "link": "https://calendly.com/bishop-kent/tithing-declaration"
     }
   ],
