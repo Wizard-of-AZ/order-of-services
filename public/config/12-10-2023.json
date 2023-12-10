@@ -1,0 +1,83 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/watch?v=ZlrlOL0w9X0",
+  "secureHash": "1",
+  "image": "https://i0.wp.com/heavenslibrary.online/wp-content/uploads/2018/06/maxresdefault.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Laurel Cronin",
+  "presiding": "Bishop Kent",
+  "conducting": "Matthew Hulse",
+  "invocation": {
+    "type": "Invocation",
+    "name": "Duane Gunn"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "Jim Stewart"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Angels We Have Heard on High",
+    "number": 203,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "Thy Will, O Lord, Be Done",
+    "number": 188,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "While Shepherds Watched Their Flocks",
+    "number": 211,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Lundon Osborn"
+    },
+    {
+      "type": "Speaker",
+      "name": "Rob Anderson"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Primary Acvitity Boys",
+        "acc. Holly Ashby"
+      ],
+      "title": "When Joseph Went To Bethlehem"
+    },
+    {
+      "type": "Speaker",
+      "name": "Mike Cooley"
+    }
+  ],
+  "announcements": [
+    {
+      "organization": "Mesa Temple Events",
+      "announcements": "During the holiday season the Mesa temple will be hosting a variety of events (including Christmas lights), we encourage families to attend and keep an eye on the calendar here:",
+      "link": "https://mesatemple.org/events/"
+    },
+    {
+      "organization": "Light The World",
+      "announcements": "The Giving Machines are back (closest to us is in downtown Gilbert), we are encouraged to attend with family and friends."
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [],
+    "callings": [
+      "Arick and Addie Collett as Sunday School Teachers",
+      "Daisy Capps as a Primary Teacher",
+      "Lisa Hakes to the Relief Society activities and compassionate service committies"
+    ],
+    "deaths": []
+  }
+}
