@@ -5,7 +5,7 @@ export default function AnnouncementItem({ organization, announcements, link }) 
       <h2 className="mb-2 text-lg font-bold text-gray-900 text-center">{organization}</h2>
       <div className="text-center pb-4">{announcements}</div>
       {link && (
-        <a className="underline my-1 font-route text-sky-600 font-semibold" href={link} target="_blank" rel="noreferrer">{link}</a>
+        <a className="underline my-1 font-route text-sky-600 font-semibold text-center pb-4" href={link} target="_blank" rel="noreferrer">{link}</a>
       )}
 
     </div>
