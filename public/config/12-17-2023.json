@@ -36,8 +36,16 @@
   },
   "services": [
     {
-      "type": "Speaker",
-      "name": "Emmy Rodriguez"
+      "type": "Testimony",
+      "name": "Kaden Workman"
+    },
+    {
+      "type": "Testimony",
+      "name": "Shaeli Kersee"
+    },
+    {
+      "type": "Testimony",
+      "name": "Tim Cronin"
     },
     {
       "type": "Musical Number",
