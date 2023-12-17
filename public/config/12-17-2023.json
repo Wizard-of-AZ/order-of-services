@@ -1,0 +1,64 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/watch?v=fh1brQJBdk4",
+  "secureHash": "1",
+  "image": "https://i0.wp.com/heavenslibrary.online/wp-content/uploads/2018/06/maxresdefault.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Laurel Cronin",
+  "presiding": "Bishop Kent",
+  "conducting": "David Kolstad",
+  "invocation": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "By Invitation"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Far Far Away on Judea's Plain",
+    "number": 212,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "God Loved Us so He Sent His Son",
+    "number": 187,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Once in Royal David's City",
+    "number": 205,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Emmy Rodriguez"
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        "Primary Children"
+      ],
+      "title": "Away In A Manger"
+    },
+    {
+      "type": "Speaker",
+      "name": "Tyler Reynolds"
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [],
+    "other": [],
+    "releases": [],
+    "callings": [
+    ],
+    "deaths": []
+  }
+}
