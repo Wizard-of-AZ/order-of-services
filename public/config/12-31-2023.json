@@ -1,0 +1,72 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://zoom.us/j/98508434243",
+  "secureHash": "1",
+  "image": "https://i0.wp.com/heavenslibrary.online/wp-content/uploads/2018/06/maxresdefault.jpg",
+  "organist": "Whitney Kolstad",
+  "chorister": "Laurel Cronin",
+  "presiding": "Bishop Kent",
+  "conducting": "David Kolstad",
+  "invocation": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "benediction": {
+    "type": "Benediction",
+    "name": "By Invitation"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Ring Out, Wild Bells",
+    "number": 215,
+    "link": null
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "In Memory Of The Crucified",
+    "number": 190,
+    "link": null
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Love One Another",
+    "number": 308,
+    "link": null
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": "Belle Reynolds"
+    },
+    {
+      "type": "Speaker",
+      "name": "Katy Flaherty"
+    },
+    {
+      "type": "Intermediate Hymn",
+      "musicians": [
+        "3"
+      ],
+      "title": "Now Let Us Rejoice"
+    },
+    {
+      "type": "Speaker",
+      "name": "Arick Collett"
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMoveIns": [
+      "Jane and Michael Beagle",
+      "Hailey Stenberg"
+    ],
+    "other": [],
+    "releases": [
+    ],
+    "callings": [
+    ],
+    "deaths": []
+  }
+}
