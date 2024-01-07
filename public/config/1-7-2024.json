@@ -1,0 +1,49 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": true,
+  "broadcastLink": "https://www.youtube.com/watch?v=2N7F2ho1ru4",
+  "secureHash": "8350e5a3e24c173df2275c9f80692755",
+  "image": "https://assets.churchofjesuschrist.org/03/b1/03b1fc836e4da44c1b912407054ff9bc7b32304c/jesus_christ_nephites_book_mormon.png",
+  "organist": "Whitney Kolstad",
+  "chorister": "Laurel Cronin",
+  "presiding": "Bishop Kent",
+  "conducting": "Bishop Kent",
+  "invocation": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "benediction": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "openingHymn": {
+    "type": "Opening Hymn",
+    "title": "Guide Us, O Thou Great Jehovah",
+    "number": 83,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/guide-us-o-thou-great-jehovah?lang=eng"
+  },
+  "sacramentHymn": {
+    "type": "Sacrament Hymn",
+    "title": "Reverently and Meekly Now",
+    "number": 185,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/reverently-and-meekly-now?lang=eng"
+  },
+  "closingHymn": {
+    "type": "Closing Hymn",
+    "title": "Dear to the Heart of the Shepherd",
+    "number": 221,
+    "link": "https://www.churchofjesuschrist.org/music/text/hymns/dear-to-the-heart-of-the-shepherd?lang=eng"
+  },
+  "services": [
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMovins": [],
+    "Other": [],
+    "releases": [
+    ],
+    "callings": [],
+    "deaths": []
+  }
+}
