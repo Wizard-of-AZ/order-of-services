@@ -1,0 +1,67 @@
+{
+  "ward": "Dana Ranch Ward",
+  "isFastSunday": false,
+  "broadcastLink": "https://www.youtube.com/watch?v=2N7F2ho1ru4",
+  "secureHash": "8350e5a3e24c173df2275c9f80692755",
+  "image": "https://assets.churchofjesuschrist.org/03/b1/03b1fc836e4da44c1b912407054ff9bc7b32304c/jesus_christ_nephites_book_mormon.png",
+  "organist": "Whiteney Kolstad",
+  "chorister": "Myrna Johnson",
+  "presiding": "Bishop Kent",
+  "conducting": "David Kolstad",
+  "invocation": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "benediction": {
+    "type": "Invocation",
+    "name": "By Invitation"
+  },
+  "openingHymn": {
+    "type": "",
+    "title": "",
+    "number": 1,
+    "link": ""
+  },
+  "sacramentHymn": {
+    "type": "",
+    "title": "",
+    "number": 1,
+    "link": ""
+  },
+  "closingHymn": {
+    "type": "",
+    "title": "",
+    "number": 1,
+    "link": ""
+  },
+  "services": [
+    {
+      "type": "Speaker",
+      "name": ""
+    },
+    {
+      "type": "Speaker",
+      "name": ""
+    },
+    {
+      "type": "Musical Number",
+      "musicians": [
+        ""
+      ],
+      "title": "\"\""
+    },
+    {
+      "type": "Speaker",
+      "name": ""
+    }
+  ],
+  "wardBusiness": {
+    "baptisms": [],
+    "ordinations": [],
+    "newMovins": [],
+    "Other": [],
+    "releases": [],
+    "callings": [],
+    "deaths": []
+  }
+}

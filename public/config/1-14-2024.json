@@ -4,51 +4,55 @@
   "broadcastLink": "https://www.youtube.com/watch?v=2N7F2ho1ru4",
   "secureHash": "8350e5a3e24c173df2275c9f80692755",
   "image": "https://assets.churchofjesuschrist.org/03/b1/03b1fc836e4da44c1b912407054ff9bc7b32304c/jesus_christ_nephites_book_mormon.png",
-  "organist": "Christine Cooley",
-  "chorister": "Myrna Johnson",
+  "organist": "Whiteney Kolstad",
+  "chorister": "Laurel Cronin",
   "presiding": "Bishop Kent",
-  "conducting": "David Kolstad",
+  "conducting": "Bishop Kent",
   "invocation": {
     "type": "Invocation",
-    "name": "Mark Fast"
+    "name": "By Invitation"
   },
   "benediction": {
     "type": "Invocation",
-    "name": "Autumn Shumway"
+    "name": "By Invitation"
   },
   "openingHymn": {
-    "type": "Opening Hymn",
-    "title": "On This Day of Joy and Gladness",
-    "number": 64,
-    "link": "https://www.churchofjesuschrist.org/music/text/hymns/on-this-day-of-joy-and-gladness?lang=eng"
+    "type": "",
+    "title": "",
+    "number": 1,
+    "link": ""
   },
   "sacramentHymn": {
-    "type": "Sacrament Hymn",
-    "title": "While of These Emblems We Partake",
-    "number": 174,
-    "link": "https://www.churchofjesuschrist.org/music/text/hymns/while-of-these-emblems-we-partake-174?lang=eng"
+    "type": "",
+    "title": "",
+    "number": 1,
+    "link": ""
   },
   "closingHymn": {
-    "type": "Closing Hymn",
-    "title": "I Know My Father Lives",
-    "number": 302,
-    "link": "https://www.churchofjesuschrist.org/music/text/hymns/i-know-my-father-lives?lang=eng"
+    "type": "",
+    "title": "",
+    "number": 1,
+    "link": ""
   },
   "services": [
     {
       "type": "Speaker",
-      "name": "Emma Tyler"
+      "name": ""
+    },
+    {
+      "type": "Speaker",
+      "name": "Rachel Downs"
     },
     {
       "type": "Musical Number",
       "musicians": [
-        "Reynolds Family"
+        ""
       ],
-      "title": "\"I Feel My Savior's Love\""
+      "title": "\"\""
     },
     {
       "type": "Speaker",
-      "name": "Robert Jarvis"
+      "name": "Autumn Shumway"
     }
   ],
   "wardBusiness": {
@@ -56,8 +60,7 @@
     "ordinations": [],
     "newMovins": [],
     "Other": [],
-    "releases": [
-    ],
+    "releases": [],
     "callings": [],
     "deaths": []
   }
