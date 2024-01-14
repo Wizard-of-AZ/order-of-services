@@ -7,7 +7,7 @@ export default function Business({ business }) {
     <div>
       <h1 className="text-center py-2 church-font font-lg">Ward Business</h1>
       {
-        businessConfig.business.map((config) => (business[config.type].length > 0) && (<BusinessItem key={v4()} config={config} items={business[config.type]} />))
+        businessConfig.business.map((config) => (business[config.type] && business[config.type].length > 0) && (<BusinessItem key={v4()} config={config} items={business[config.type]} />))
       }
     </div>
   );
