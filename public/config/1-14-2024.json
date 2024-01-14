@@ -1,11 +1,11 @@
 {
   "ward": "Dana Ranch Ward",
   "isFastSunday": false,
-  "broadcastLink": "https://www.youtube.com/watch?v=2N7F2ho1ru4",
-  "secureHash": "8350e5a3e24c173df2275c9f80692755",
+  "broadcastLink": "https://www.youtube.com/watch?v=2V0Fa5-MvRI",
+  "secureHash": "1",
   "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
   "organist": "Whiteney Kolstad",
-  "chorister": "Laurel Cronin",
+  "chorister": "Brie Gates",
   "presiding": "Bishop Kent",
   "conducting": "Bishop Kent",
   "invocation": {
@@ -17,27 +17,27 @@
     "name": "By Invitation"
   },
   "openingHymn": {
-    "type": "",
-    "title": "",
-    "number": 1,
+    "type": "Opening Hymn",
+    "title": "O Thou Rock of Our Salvation",
+    "number": 258,
     "link": ""
   },
   "sacramentHymn": {
-    "type": "",
-    "title": "",
-    "number": 1,
+    "type": "Sacrament Hymn",
+    "title": "He Died! The Great Redeemer Died",
+    "number": 192,
     "link": ""
   },
   "closingHymn": {
-    "type": "",
-    "title": "",
-    "number": 1,
+    "type": "Closing Hymn",
+    "title": "Lord, I Would Follow Thee",
+    "number": 220,
     "link": ""
   },
   "services": [
     {
       "type": "Speaker",
-      "name": ""
+      "name": "Elder Martindale"
     },
     {
       "type": "Speaker",
@@ -46,9 +46,9 @@
     {
       "type": "Musical Number",
       "musicians": [
-        ""
+        "246"
       ],
-      "title": "\"\""
+      "title": "\"Onward Christian Soldiers\""
     },
     {
       "type": "Speaker",
