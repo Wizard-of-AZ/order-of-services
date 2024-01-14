@@ -20,19 +20,19 @@
     "type": "Opening Hymn",
     "title": "O Thou Rock of Our Salvation",
     "number": 258,
-    "link": ""
+    "link": null
   },
   "sacramentHymn": {
     "type": "Sacrament Hymn",
     "title": "He Died! The Great Redeemer Died",
     "number": 192,
-    "link": ""
+    "link": null
   },
   "closingHymn": {
     "type": "Closing Hymn",
     "title": "Lord, I Would Follow Thee",
     "number": 220,
-    "link": ""
+    "link": null
   },
   "services": [
     {
