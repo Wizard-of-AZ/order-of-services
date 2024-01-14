@@ -60,8 +60,26 @@
     "ordinations": [],
     "newMovins": [],
     "Other": [],
-    "releases": [],
-    "callings": [],
+    "releases": [
+      "Shaeli Kersee as Young Womens President",
+      "Sydney Kent as 1st Counselor in YW Presidency",
+      "Kristen Reynolds as 2nd Counselor in YW Presidency",
+      "Cindy Fast as Secretary in YW Presidency",
+      "Kelly Hardy as Primary teacher and Activities leader",
+      "Shauna Flake as Primary teacher",
+      "Helga Goff as Primary teacher",
+      "Kinsey Wallace as Primary activities leader",
+      "Mike Cooley as Ward Mission Leader"
+    ],
+    "callings": [
+      "Kristen Reynolds as Young Womens President",
+      "Kelly Hardy as 1st Counselor in YW Presidency",
+      "Kaddie Brady as 2nd Counselor in YW Presidency",
+      "Shauna flake as Secretary in YW Presidency",
+      "Shaeli Kersee as Gospel Doctrine Instructor",
+      "Rob Anderson as Teachers Quorum Advisor",
+      "Mike and Chris Cooley as Sunday School teachers"
+    ],
     "deaths": []
   }
 }
