@@ -17,21 +17,21 @@
     "name": "By Invitation"
   },
   "openingHymn": {
-    "type": "",
-    "title": "",
-    "number": 1,
+    "type": "Opening Hymn",
+    "title": "There Is Sunshine in My Soul Today",
+    "number": 227,
     "link": ""
   },
   "sacramentHymn": {
-    "type": "",
-    "title": "",
-    "number": 1,
+    "type": "Sacrament Hymn",
+    "title": "We'll Sing All Hail to Jesus' Name",
+    "number": 182,
     "link": ""
   },
   "closingHymn": {
-    "type": "",
-    "title": "",
-    "number": 1,
+    "type": "Closing Hymn",
+    "title": "Help Me Teach with Inspiration",
+    "number": 281,
     "link": ""
   },
   "services": [
@@ -41,18 +41,19 @@
     },
     {
       "type": "Speaker",
-      "name": ""
+      "name": "Amber Osborn"
     },
     {
       "type": "Musical Number",
       "musicians": [
-        ""
+        "Lisa Brandt",
+        "Holly Kolstad (cello)"
       ],
-      "title": "\"\""
+      "title": "\"I Am A Child of God\""
     },
     {
       "type": "Speaker",
-      "name": ""
+      "name": "Charity Wilhelm"
     }
   ],
   "wardBusiness": {

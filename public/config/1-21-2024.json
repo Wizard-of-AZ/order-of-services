@@ -1,8 +1,8 @@
 {
   "ward": "Dana Ranch Ward",
   "isFastSunday": false,
-  "broadcastLink": "https://www.youtube.com/watch?v=2V0Fa5-MvRI",
-  "secureHash": "8350e5a3e24c173df2275c9f80692755",
+  "broadcastLink": "https://www.youtube.com/watch?v=Xwpgs051P_w",
+  "secureHash": "1",
   "image": "https://i.swncdn.com/media/900w/via/21858-mv5bntjknza2zgetntuwzi00mtawltkzytcty2viotezn.jpg",
   "organist": "Kristen Reynolds",
   "chorister": "Laurel Cronin",
@@ -37,7 +37,7 @@
   "services": [
     {
       "type": "Speaker",
-      "name": ""
+      "name": "Dean Richardson"
     },
     {
       "type": "Musical Number",
@@ -48,7 +48,7 @@
     },
     {
       "type": "Speaker",
-      "name": ""
+      "name": "Colleen Shumway"
     }
   ],
   "wardBusiness": {
